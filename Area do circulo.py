@@ -1,4 +1,4 @@
 Pi= 3.14
 R= int(input("digite o raio do circulo"))
-Area= Pi*R**2
-print(Area)
+Área= Pi*R**2
+print( "A Área do circulo é",Área,"cm²")
